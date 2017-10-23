@@ -14,7 +14,7 @@ Sample Output from the program:
       
 The format of the output is:
 
-#lines #words #bytes [longest line len] #uniquewords
+> #lines #words #bytes [longest line len] #uniquewords
 
 with each separated by whitespace (you can use tabs if you want). If no options are given, just print the first 3 items above, just like normal wc would do. Otherwise, print only the values corresponding to the flags your program was given, and output them in the same order as above.
 
